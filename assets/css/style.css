@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Merriweather&display=swap');
+
+:root {
+  --cor-branco-principal: #F9F9F9;
+  --cor-fundo-botao: #6C63FF;
+  --cor-fundo-roxo: #D7D4FF;
+  --cor-texto-card-cinza: #555555;
+  --cor-texto-principal: #2B2B2B;
+
+  --cor-card-amarelo: #FFDD63;
+  --cor-card-azul-claro: #63ECFF;
+  --cor-card-azul-escuro: #6663FF;
+  --cor-card-roxo: #F363FF;
+  --cor-card-verde: #63FF73;
+  --cor-card-vermelho: #FF6363;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
